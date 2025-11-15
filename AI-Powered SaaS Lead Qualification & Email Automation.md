@@ -1,6 +1,4 @@
----
-**AI-Powered SaaS Lead Qualification & Email Automation**
-
+# ⭐ **AI-Powered SaaS Lead Qualification & Email Automation
 ---
 
 An intelligent agent that automatically qualifies SaaS leads after form submission, scores them using AI, sends a personalized email, handles bounce errors, updates a Leads sheet, and logs every interaction in a separate Logs sheet.
